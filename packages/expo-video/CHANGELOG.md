@@ -11,6 +11,7 @@
 ### 🐛 Bug fixes
 
 - [iOS] Dispatch current player item changes on main queue to fix KVO-related crashes. ([#33123](https://github.com/expo/expo/pull/33123) by [@behenate](https://github.com/behenate))
+- [iOS] Background mode playback fix. ([#33706](https://github.com/expo/expo/pull/33706) by [@hromovp](https://github.com/hromovp))
 
 ### 💡 Others
 
